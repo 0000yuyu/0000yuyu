@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-</div>
+
 - 🌱 I’m currently learning computer enginering
 <br/>
 - 😄 I am currently in 4th grade.
@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 </div>
-- 📫 How to reach me: hakty6203@gmail.com
-#### : 
-- My GitHub Configuration Language
-<div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+- 📫 How to reach me: hakty6203@gmail.com
+- My GitHub Configuration Language
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimclick&layout=compact&theme=dark"/>
