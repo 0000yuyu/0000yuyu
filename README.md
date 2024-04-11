@@ -29,5 +29,7 @@ Here are some ideas to get you started:
 <br>
 - 📫 How to reach me: hakty6203@gmail.com
 <br>
+- my constist of github:
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimclick&layout=compact&theme=dark"/>
 </div>
