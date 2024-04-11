@@ -1,9 +1,4 @@
-### yujin's profile 👋
-
-
-**0000yuyu/0000yuyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=8CB9BD&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=8CB9BD&height=50&section=header&text=yujin's profile%20render&fontSize=50)
 
 Here are some ideas to get you started:
 
