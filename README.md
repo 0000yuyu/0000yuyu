@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=8CB9BD&height=50&section=header&text=yujin's profile%20render&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=8CB9BD&height=100&section=header&text=yujin's profile%20render&fontSize=50)
 
 Here are some ideas to get you started:
 
