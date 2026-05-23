@@ -47,8 +47,3 @@
 
 </div>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0000yuyu&layout=compact&theme=dark"/>
-
-[![0000yuyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=0000yuyu)](https://github.com/anuraghazra/github-readme-stats)
-
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hakty6203)
